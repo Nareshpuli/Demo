@@ -2,5 +2,7 @@ Welcome to Recipes
 
 1) Kheer
 2) Pasta
+beans
+rajma
 
 Thanks :)
